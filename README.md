@@ -2,11 +2,11 @@
 This repo is based on my project for image classification of satellite images onboard a nanosatellite.
 
 # Contents
-1. [Introduction](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification#Introduction)
-2. [Installation](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification#Installation)
-3. [Getting Started](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification#Getting-Started)
-4. [Demo](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification#Demo)
-5. [License](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification#License)
+* [Introduction](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification#Introduction)
+* [Installation](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification#Installation)
+* [Getting Started](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification#Getting-Started)
+* [Demo](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification#Demo)
+* [License](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification#License)
 
 # Introduction
 I designed the software used to classify Earth, Space and Sun-Flare images onboard a nanosatellite. Its purpose is to optimize the bandwidth used in sending the data to the ground station during downlink.
