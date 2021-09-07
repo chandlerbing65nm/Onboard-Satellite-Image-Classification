@@ -13,7 +13,7 @@ I designed the software used to classify Earth, Space and Sun-Flare images onboa
     
 # Getting Started
 ### Training and Inference
-Run the model.py to start the training and testing process. The result will give an output file of "**ICU_model.h5**" and a lite version "**model_tflite**".
+Run the [model.py](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification/blob/main/model.py) to start the training and testing process. The result will give an output file of [ICU_model.h5](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification/tree/main/Models) and a lite version [model_tflite](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification/tree/main/Models).
 ```
 python model.py
 ```
