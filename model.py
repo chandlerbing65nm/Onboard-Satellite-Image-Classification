@@ -69,7 +69,7 @@ validation_generator = validation_datagen.flow_from_directory(VALIDATION_DIR,
 # In[4]:
 
 
-pretrained_model = keras.models.load_model('Models\cifar10 model.h5')
+pretrained_model = keras.models.load_model('Models\pretrained.h5')
 
 print(pretrained_model.summary())
 
