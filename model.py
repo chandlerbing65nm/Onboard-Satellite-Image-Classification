@@ -169,8 +169,8 @@ loaded_model = keras.models.load_model('Models\ICU_model.h5')
 # In[10]:
 
 
-Sample = Image.open("Testing\Flare\Flare2.jpg").resize((320, 320))
-Sample
+Sample = Image.open("Testing\Flare\Flare2.jpg").resize((1024, 1024))
+Sample.show()
 
 
 # In[11]:
