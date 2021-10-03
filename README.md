@@ -15,13 +15,16 @@ I designed the software used to classify Earth, Space and Sun-Flare images onboa
 ### Requirements
 - Linux/Windows/Mac
 - Python 3
+- Google Colab
 ### Dependencies
-    pip install -r requirements.txt
+```python
+pip install -r requirements.txt
+```
     
 # Getting-Started
 ### Training and Inference
 Run the [model.py](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification/blob/main/model.py) or [model.ipynb](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification/blob/main/model.ipynb) to start the training and testing process. The result will give output files of [ICU_model.h5](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification/tree/main/Models) and a lite version [model_tflite](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification/tree/main/Models).
-```
+```python
 python model.py
 ```
 # Demo
