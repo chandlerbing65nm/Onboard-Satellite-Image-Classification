@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Onboard Satellite Image Classification
+This repo is based on my project for image classification of satellite images onboard a nanosatellite.
 
-You can use the [editor on GitHub](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Contents
+* [Introduction](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification#Introduction)
+* [Installation](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification#Installation)
+* [Getting Started](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification#Getting-Started)
+* [Demo](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification#Demo)
+* [License](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification#License)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Introduction
+I designed the software used to classify Earth, Space and Sun-Flare images onboard a nanosatellite. Its purpose is to optimize the bandwidth used in sending the data to the ground station during downlink.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# Installation
+### Requirements
+- Linux/Windows/Mac
+- Python 3
+- Google Colab
+### Dependencies
+```python
+pip install -r requirements.txt
 ```
+    
+# Getting-Started
+### Training and Inference
+Run the [model.py](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification/blob/main/model.py) or [model.ipynb](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification/blob/main/model.ipynb) to start the training and testing process. The result will give output files of [ICU_model.h5](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification/tree/main/Models) and a lite version [model_tflite](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification/tree/main/Models).
+```python
+python model.py
+```
+# Demo
+### Earth
+![](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification/blob/main/Dataset/Test/Earth/BIRDS3-1-1.jpg?raw=true)
+### Sun Flare
+![](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification/blob/main/Dataset/Test/Flare/NanoSat-20.jpg?raw=true)
+### Space
+![](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification/blob/main/Dataset/Test/Space/D2_MFC_2019-02-27T191956086_%5B000.000%5D-thumb.jpg?raw=true)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# License
+This repo is licensed under [MIT License](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification/blob/main/LICENSE)
