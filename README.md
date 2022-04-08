@@ -1,7 +1,5 @@
 <p align="center">
   <img 
-    width="800"
-    height="120"
     src="https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification/blob/main/Onboard_Satellite__nImage_Classification.png?raw=true"
   >
 </p>
