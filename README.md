@@ -1,8 +1,20 @@
-![banner](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification/blob/main/Onboard_Satellite__nImage_Classification.png?raw=true)
+<p align="center">
+  <img 
+    width="950"
+    height="150"
+    src="https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification/blob/main/Onboard_Satellite__nImage_Classification.png?raw=true"
+  >
+</p>
 
-![last commit](https://img.shields.io/github/last-commit/chandlerbing65nm/Onboard-Satellite-Image-Classification) ![repo size](https://img.shields.io/github/repo-size/chandlerbing65nm/Onboard-Satellite-Image-Classification) ![watchers](https://img.shields.io/github/watchers/chandlerbing65nm/Onboard-Satellite-Image-Classification?style=social)
+<div align="center">
 
-This repo is based on my project for image classification of satellite images onboard a nanosatellite.
+  <a href="">![last commit](https://img.shields.io/github/last-commit/chandlerbing65nm/Onboard-Satellite-Image-Classification)</a>
+  <a href="">![repo size](https://img.shields.io/github/repo-size/chandlerbing65nm/Onboard-Satellite-Image-Classification)</a>
+  <a href="">![watchers](https://img.shields.io/github/watchers/chandlerbing65nm/Onboard-Satellite-Image-Classification?style=social)</a>
+
+</div>
+
+<h4 align="center">Image classification of satellite images onboard a nanosatellite..</h4>
 
 # Contents
 * [Introduction](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification#Introduction)
