@@ -16,7 +16,9 @@
 
 <h4 align="center">Image classification of satellite images onboard a nanosatellite.</h4>
 
+
 # Contents
+![personal](https://img.shields.io/badge/project-chandlertimmdoloriel-red?style=for-the-badge&logo=appveyor)
 * [Introduction](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification#Introduction)
 * [Installation](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification#Installation)
 * [Getting Started](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification#Getting-Started)
