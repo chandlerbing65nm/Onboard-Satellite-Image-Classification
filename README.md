@@ -1,4 +1,7 @@
-# Onboard Satellite Image Classification
+![banner](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification/blob/main/Onboard_Satellite__nImage_Classification.png?raw=true)
+
+![last commit](https://img.shields.io/github/last-commit/chandlerbing65nm/Onboard-Satellite-Image-Classification) ![repo size](https://img.shields.io/github/repo-size/chandlerbing65nm/Onboard-Satellite-Image-Classification) ![watchers](https://img.shields.io/github/watchers/chandlerbing65nm/Onboard-Satellite-Image-Classification?style=social)
+
 This repo is based on my project for image classification of satellite images onboard a nanosatellite.
 
 # Contents
@@ -29,11 +32,11 @@ python model.py
 ```
 # Demo
 ### Earth
-![alt text](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification/blob/main/Dataset/Test/Earth/BIRDS3-1-1.jpg)
+![alt text](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification/blob/main/Dataset/Test/Earth/BIRDS-3_Mongolia-1.jpg?raw=true)
 ### Sun Flare
-![alt text](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification/blob/main/Dataset/Test/Flare/NanoSat-20.jpg)
+![alt text](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification/blob/main/Dataset/Test/Flare/NanoSat-26.jpg?raw=true)
 ### Space
-![alt text](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification/blob/main/Dataset/Test/Space/D2_MFC_2019-02-27T191956086_%5B000.000%5D-thumb.jpg)
+![alt text](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification/blob/main/Dataset/Test/Space/D2_MFC_2019-02-27T191956086_%5B000.000%5D-thumb.jpg?raw=true)
 
 # License
 This repo is licensed under [MIT License](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification/blob/main/LICENSE)
