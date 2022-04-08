@@ -14,7 +14,7 @@
 
 </div>
 
-<h4 align="center">Image classification of satellite images onboard a nanosatellite..</h4>
+<h4 align="center">Image classification of satellite images onboard a nanosatellite.</h4>
 
 # Contents
 * [Introduction](https://github.com/chandlerbing65nm/Onboard-Satellite-Image-Classification#Introduction)
