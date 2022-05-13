@@ -4,14 +4,6 @@
   >
 </p>
 
-<div align="center">
-
-  <a href="">![last commit](https://img.shields.io/github/last-commit/chandlerbing65nm/Onboard-Satellite-Image-Classification)</a>
-  <a href="">![repo size](https://img.shields.io/github/repo-size/chandlerbing65nm/Onboard-Satellite-Image-Classification)</a>
-  <a href="">![watchers](https://img.shields.io/github/watchers/chandlerbing65nm/Onboard-Satellite-Image-Classification?style=social)</a>
-
-</div>
-
 <h4 align="center">Image classification of satellite images onboard a nanosatellite.</h4>
 
 
